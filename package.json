@@ -1,0 +1,19 @@
+{
+  "name": "test_bot",
+  "version": "1.0.0",
+  "description": "a try to make first telegramm bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Telegramm-bot"
+  ],
+  "author": "Esil",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "nodemon": "^3.0.2"
+  }
+}
