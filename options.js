@@ -14,5 +14,6 @@ module.exports = {
                 [{text: "Играть еще раз", callback_data: "/game"}]
             ]
         })
-    }
+    },
+    chats: {}
 }
